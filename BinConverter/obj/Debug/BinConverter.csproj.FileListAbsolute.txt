@@ -1,0 +1,10 @@
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\bin\Debug\BinConverter.exe.config
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\bin\Debug\BinConverter.exe
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\bin\Debug\BinConverter.pdb
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.csprojAssemblyReference.cache
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.Form1.resources
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.Properties.Resources.resources
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.csproj.GenerateResource.cache
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.csproj.CoreCompileInputs.cache
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.exe
+E:\Drive\00_Document\2023\20230422_GraphicUI\BinConverter\BinConverter\obj\Debug\BinConverter.pdb
